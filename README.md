@@ -5,12 +5,12 @@ This project served as a fun way to implement the MIN-MAX algorithm learnt at th
 It uses the algorithm to play a TiK Tak Toe game against the user.
 with this algorithm the USER CANNOT WIN, but the game can end up in a tie.
 
-## Other uses for the MIM-MAX algorithm:
+## Other uses for the MIN-MAX algorithm:
 
-This algorithm can be uses at many situations that consists context of "Maximizing minimal choices" or "Minimizing maximal choices", for example:
+This algorithm can be uses at many situations in the context of "Maximizing minimal choices" or "Minimizing maximal choices", for example:
 
-In a Chess match i have the objective to win the Game ( of course ), but with that i also want to MAXIMIZE my chances of winning, but at the same time, my opponent
-have the same objective for him ( MINIMIZING my chances of winning ), so, i want to MAXIMIZE the MINIMIZATION of my opponent.
+In a Chess match i have the objective to win the Game ( of course ), but with that i want to MAXIMIZE my chances of winning, but at the same time, my opponent
+has the same objective ( MINIMIZING my chances of winning ), so, i want to MAXIMIZE over the MINIMIZATION of my opponent.
 
 That's what this algorithm does.
 
