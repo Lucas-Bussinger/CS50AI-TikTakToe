@@ -1,7 +1,8 @@
 # Tik Tak Toe AI
 ## Objective:
 
-This project served as a fun way to implement the MIN-MAX algorithm learnt at the CS50AI
+This project served as a fun way to implement the MIN-MAX algorithm learnt at the CS50AI.
+
 It uses the algorithm to play a TiK Tak Toe game against the user.
 with this algorithm the USER CANNOT WIN, but the game can end up in a tie.
 
